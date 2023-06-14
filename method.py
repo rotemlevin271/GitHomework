@@ -1,2 +1,3 @@
-def welcome():
-    print("welcome")
+
+def click():
+    print("Click")
